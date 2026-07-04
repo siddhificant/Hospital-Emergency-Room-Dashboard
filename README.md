@@ -72,7 +72,8 @@ Detailed patient-level table containing:
 ---
 
 ## Screenshots
-(Add dashboard screenshots here)
+https://github.com/siddhificant/Hospital-Emergency-Room-Dashboard/blob/main/Monthly%20View.png
+
 
 ---
 
