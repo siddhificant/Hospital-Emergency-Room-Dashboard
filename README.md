@@ -74,7 +74,7 @@ Detailed patient-level table containing:
 ## Screenshots
 https://github.com/siddhificant/Hospital-Emergency-Room-Dashboard/blob/main/Monthly%20View.png
 https://github.com/siddhificant/Hospital-Emergency-Room-Dashboard/blob/main/Consolidated%20View.png
-
+https://github.com/siddhificant/Hospital-Emergency-Room-Dashboard/blob/main/Patient%20Details.png
 ---
 
 ## Project Source
